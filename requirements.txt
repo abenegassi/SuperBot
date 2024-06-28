@@ -1,0 +1,14 @@
+streamlit
+hugchat==0.0.8
+streamlit
+python-dotenv
+langchain
+openai
+pinecone-client
+bs4
+langchain
+langchain-community
+langchain_pinecone
+langchain_openai
+selenium
+webdriver-manager
